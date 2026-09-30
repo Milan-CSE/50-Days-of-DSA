@@ -33,4 +33,4 @@ for i in range(len(nums)):
             left += 1
             right -= 1
 
-print(result)
+print(f"Final ans is {result}")
