@@ -14,4 +14,4 @@ for right in range(len(arr)):
         running_sum -= arr[left]
         left += 1
         
-print(min_length)
+print(f"---{min_length}---")
