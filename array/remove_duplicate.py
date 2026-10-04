@@ -9,4 +9,4 @@ for i in range(1,len(arr)):
 
 del arr[arr_index:]
 
-print(arr)
+print(f"--{arr}--")
